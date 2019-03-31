@@ -63,6 +63,10 @@ Resume Download (PDF)
   {% endfor %}</ul>
   
   
-Service and leadership
+Leadership
 ======
-* Currently signed in to 43 different slack teams
+Nottingham Divers Club 
+  * Chancellor (2016)
+  * President (2015)
+  * Creative Director (2014)
+
