@@ -11,48 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MEng Civil Engineering, University of Nottingham, 2017 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Management Graduate, Royal Mail, UK
+September 2018 - PRESENT
+  * Analysing throughputs for tracked machines to ensure quality and daily figures
+  * Liaising with bay marshal to coordinating seamless flow of work
+  * Develop value stream map for T24 mail on the early shift
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+CSCS Site Supervisor, Rectory Homes, UK 
+JAN 2018 – SEPT 2018
+  * Supervising all on site trades and liaising with site and project managers for duties
+  * Extensive plot preparation prior to CML evaluations
+  * Maintaining and recording site conditions and site security
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Manipulation
+  * NumPy 
+  * Pandas
+* Exploratory Data Visualisation & Analysis
+  * Matplotlib
+  * Seaborn
+* Machine Learning
+  * Scikit Learn
+* Deep Learning
+  * TensorFlow
+* SQL
+  * SQLite
+  * MySQL
 
-Publications
+Programming Languages: Python, C++ 
+
+Languages: English (Native), French (Basic), Mandarin (HSK 1)
+
+
+Certifications
+======
+SQL for Data Science (Coursera, 2019)
+Data Analysis with Python (IBM, 2018)
+Python for Data Science (IBM, 2018)
+PADI Open Water Diving License (Sabah, 2015)
+
+
+Resume Download (PDF)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
