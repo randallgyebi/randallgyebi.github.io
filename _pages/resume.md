@@ -15,13 +15,13 @@ Education
 
 Work experience
 ======
-Management Graduate, Royal Mail, UK
+#### Management Graduate, Royal Mail, UK
 September 2018 - PRESENT
   * Analysing throughputs for tracked machines to ensure quality and daily figures
   * Liaising with bay marshal to coordinating seamless flow of work
   * Develop value stream map for T24 mail on the early shift
 
-CSCS Site Supervisor, Rectory Homes, UK 
+#### CSCS Site Supervisor, Rectory Homes, UK 
 JAN 2018 – SEPT 2018
   * Supervising all on site trades and liaising with site and project managers for duties
   * Extensive plot preparation prior to CML evaluations
