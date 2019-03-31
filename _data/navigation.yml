@@ -7,8 +7,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
     
   - title: "Updates"
     url: /updates/
