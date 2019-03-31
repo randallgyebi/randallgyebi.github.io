@@ -35,9 +35,8 @@ Skills
 * Exploratory Data Visualisation & Analysis
   * Matplotlib
   * Seaborn
-* Machine Learning
+* Machine & Deep Learning
   * Scikit Learn
-* Deep Learning
   * TensorFlow
 * SQL
   * SQLite
