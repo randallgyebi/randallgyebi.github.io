@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Titanic Dataset - Work In Progress"
+excerpt: "Classification Model For the Titanic Dataset 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I am currently working on my first dedicated machine Learning Project which is the Titanic Dataset. In all honesty, the development has taken a bit longer that I have anticipted. The transition from theory to practicwe hasnt been as seamlessly as hoped but the notebook and post should be up and ready my 07 April 2019.
