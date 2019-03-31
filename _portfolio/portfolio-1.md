@@ -1,6 +1,6 @@
 ---
 title: "Titanic Dataset - Work In Progress"
-excerpt: "Classification Model For the Titanic Dataset 1<br/><img src='/images/500x300.png'>"
+excerpt: "Classification Model For the Titanic Dataset 1<br/><img src='/images/titanic_1.jpg'>"
 collection: portfolio
 ---
 
