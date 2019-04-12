@@ -859,7 +859,7 @@ train_clean.hist(bins=50, figsize=(20,15))
 
 
 
-![png](images/output_32_1.png)
+![png](/images/output_32_1.png)
 
 
 These histograms seem to corroborate the deductions made from 'train_set.describe()'. We can also see that there are more instances of deaths than survivial in the 'Survived' attribute and this will affect the training process. We also see that many attributes are tail heavy and  will have to be manipulated to a more bell shaped distribution
@@ -1082,7 +1082,7 @@ plt.ylabel('Algorithm')
 
 
 
-![png](images/output_44_2.png)
+![png](/images/output_44_2.png)
 
 
 From the bar graph we can see that the Gradient Boosting Classifier performed best and would be the best suited model for predictions.
