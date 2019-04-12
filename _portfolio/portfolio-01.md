@@ -1,6 +1,6 @@
 ---
 title: "Titanic Classification"
-excerpt: "Classification Model For the Titanic Dataset 1<br/><img src='/images/titanic_1.jpg' style="width:500px;height:600px"> 
+excerpt: "Classification Model For the Titanic Dataset 1<br/><img src='/images/titanic_1.jpg'> 
 collection: portfolio
 ---
 
