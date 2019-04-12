@@ -1,5 +1,9 @@
+---
+title: "Titanic Classification"
+excerpt: "Classification Model For the Titanic Dataset 1<br/><img src='/images/titanic_1.jpg'>"
+collection: portfolio
+---
 
-# Titanic Classification
 
 ## Introduction
 The titanic dataset seems to be the 'Hello World' of machine learning and is a collation of data about the individuals aboard the titanic and their survival.
