@@ -25,13 +25,13 @@ For the first step we just download the train and test data from [Kaggle](https:
 ### Create Workspace & Tools
 Now we import the standard ML libraries for basic data wrangling.
 
-
+<font size="5">
 ```python
 import numpy as np
 import pandas as pd
 print("Complete")
 ```
-
+</font>
     Complete
     
 
