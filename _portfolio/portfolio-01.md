@@ -1,9 +1,12 @@
 ---
-title: "Titanic Classification"
+title: "Project 1: Titanic Classification"
 excerpt: "Classification Model For the Titanic Dataset 1<br/><img src='/images/titanic_1.jpg' style='width:500px'>"
 collection: portfolio
 ---
+## Summary
+This was my first ever ML project and although it took almost 3 weeks I gained a very in depth and almost intuitive understanding of the SciKit Learn API. I was able to get train a model to +80% cross validaton accuracy but did not get an overall accuracy score as this was not included in the dataset. That will be my next focus for my next poject. 
 
+I am still learning more and more about ML algorightms and the overall stats and linear algebra used and hopefully this is the first of many projects.
 
 ## Introduction
 The titanic dataset seems to be the 'Hello World' of machine learning and is a collation of data about the individuals aboard the titanic and their survival.
