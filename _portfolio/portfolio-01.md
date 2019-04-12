@@ -1,6 +1,6 @@
 ---
 title: "Project 1: Titanic Classification"
-excerpt: "Classification Model For the Titanic Dataset 1<br/><img src='/images/titanic_1.jpg' style='width:500px'>"
+excerpt: "First End-To-End Machine Learning Project<br/><img src='/images/titanic_1.jpg' style='width:500px'>"
 collection: portfolio
 ---
 ## Summary
