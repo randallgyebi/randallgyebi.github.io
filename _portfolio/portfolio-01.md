@@ -43,7 +43,7 @@ from google.colab import drive
 drive.mount("/content/drive")
 ```
 
-    Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+    Mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
     
 
 
@@ -52,7 +52,7 @@ cd drive/My Drive/Developmental/Programming/Data Science/Projects/Kaggle: Titani
 
 ```
 
-    [Errno 2] No such file or directory: 'drive/My Drive/Developmental/Programming/Data Science/Projects/Kaggle: Titanic Classification'
+
     /content/drive/My Drive/Developmental/Programming/Data Science/Projects/Kaggle: Titanic Classification
     
 
