@@ -1,6 +1,6 @@
 ---
 title: "Project 2: Machine Learning Workshop 4"
-excerpt: "First End-To-End Machine Learning Project<br/><img src='/images/titanic_1.jpg' style='width:500px'>"
+excerpt: "First End-To-End Machine Learning Project<br/><img src='/images/comparethemarket.png' style='width:500px'>"
 collection: portfolio
 ---
 Yesterday was my third machine learning meetup at ["Learn Machine Learning Workshop"](https://www.meetup.com/Learn-machine-learning-london/). I attended their second meetup at Just Eat and this was fourth event being held at CompareTheMarket. (![alt text](/images/comparethemarket.jpg))
