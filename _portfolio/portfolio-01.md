@@ -8,6 +8,8 @@ This was my first ever ML project and although it took almost 3 weeks I gained a
 
 I am still learning more and more about ML algorightms and the overall stats and linear algebra used and hopefully this is the first of many projects.
 
+The code is more legible on ######[GitHub](https://github.com/randallgyebi/Data-Science-Projects/blob/master/Titanic_Classification.ipynb).
+
 ## Introduction
 The titanic dataset seems to be the 'Hello World' of machine learning and is a collation of data about the individuals aboard the titanic and their survival.
 
