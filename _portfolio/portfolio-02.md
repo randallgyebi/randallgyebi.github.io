@@ -12,4 +12,4 @@ We then went on to a challenge for developing a model for predicting the labels 
 All in all, it was a good experience and I was able to meet people trying to make the same career transition I am embarking on.
 
 The project code can be found on GitHub through the link below.
-## Link: **<a href="https://github.com/randallgyebi/Data-Science-Projects/blob/master/Machine_Learning_Workshop_4.ipynb" target="_blank">Project 2: Machine Learning Workshop 4</a>**
+# Project Notebook Link: **<a href="https://github.com/randallgyebi/Data-Science-Projects/blob/master/Machine_Learning_Workshop_4.ipynb" target="_blank">Project 2: Machine Learning Workshop 4</a>**
