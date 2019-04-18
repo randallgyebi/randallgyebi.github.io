@@ -14,7 +14,7 @@ I'm in a very good routine with my fitness routine now. Its been almost 5 weeks 
 - 2 x Distance Training
 - 2 x Swimming Session
 
-My dad was there to spot at my last workout session. I hate how he makes me look small. 😆 :laughing:
+My dad was there to spot at my last workout session. I hate how he makes me look small. 😆 
 
 <img src="/images/father2.jpg" alt="father" height="500"/>
 
