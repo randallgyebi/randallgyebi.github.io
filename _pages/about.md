@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website, where I chronical my personal development and journey through data science, project management and fitness. Feel free to browse **[portfolio](/_pages/portfolio.html)** & **[posts](/_pages/year-archive.html)** for my progress, my **[resume](/_pages/resume.md)** for my professional summary and **[updates](/_pages/updates.html)** for general information about activities I’ve been doing.
+Welcome to my personal website, where I chronical my personal development and journey through data science, project management and fitness. Feel free to browse **[portfolio](/portfolio)** & **[posts](/year-archive)** for my progress, my **[resume](/resume)** for my professional summary and **[updates](/updates)** for general information about activities I’ve been doing.
 
 About Me
 ======
