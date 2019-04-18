@@ -9,4 +9,4 @@ This was my first ever ML project and although it took almost 3 weeks I gained a
 I am still learning more and more about ML algorightms and the overall stats and linear algebra used and hopefully this is the first of many projects.
 
 The project code can be found on GitHub through the link below.
-### Link: **<a href="https://github.com/randallgyebi/Data-Science-Projects/blob/master/Titanic_Classification.ipynb" target="_blank">Project 1: Titanic Classification</a>**
+### Project Link: **<a href="https://github.com/randallgyebi/Data-Science-Projects/blob/master/Titanic_Classification.ipynb" target="_blank">Project 1: Titanic Classification</a>**
