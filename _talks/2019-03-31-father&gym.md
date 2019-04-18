@@ -27,7 +27,7 @@ blame but dividing 77.5kg on an Olympic barbell isnt as intuitive as you'd think
 
 Its very simple in writing but for some reason I have ended up doing more weight than intended from time to time
 
-<img src="/images/barbellmath.jpg" alt="barbellmath" height="500"/>
+<img src="/images/barbellmath.png" alt="barbellmath" height="500"/>
 
 ## Progress
 | Tables        | Weight (kgs)        |Change (kgs) |
