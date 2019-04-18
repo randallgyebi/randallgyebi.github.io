@@ -57,10 +57,9 @@ PADI Open Water Diving License (Sabah, 2015)
 
 Resume Download (PDF)
 ======
-<a href="https://github.com/randallgyebi/randallgyebi.github.io/blob/master/files/Randall%20Gyebi%20CV%20190402%20CS.docx?raw=true" >Randall Gyebi 2019 [Word Document]</a>
+Word: <a href="https://github.com/randallgyebi/randallgyebi.github.io/blob/master/files/Randall%20Gyebi%20CV%20190402%20CS.docx?raw=true" >Randall Gyebi 2019 [Word Document]</a>
 
-<a href="https://github.com/randallgyebi/randallgyebi.github.io/blob/master/files/Randall%20Gyebi%20CV%20190402%20CS.pdf" download>Randall Gyebi 2019 [PDF]</a>
-  
+PDF: <a href="https://github.com/randallgyebi/randallgyebi.github.io/blob/master/files/Randall%20Gyebi%20CV%20190402%20CS.pdf" target="_blank">Randall Gyebi 2019 [PDF]</a>
   
 Leadership
 ======
