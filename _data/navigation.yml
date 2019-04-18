@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "Posts"
-    url: /year-archive/
-    
   - title: "Portfolio"
     url: /portfolio/
+  
+  - title: "Posts"
+    url: /year-archive/
     
   - title: "Resume"
     url: /resume/
