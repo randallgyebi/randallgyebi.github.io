@@ -4,6 +4,7 @@ excerpt: "Second End-To-End Machine Learning Project<br/><img src='/images/compa
 collection: portfolio
 ---
 Yesterday was my third machine learning meetup at <a href="https://www.meetup.com/Learn-machine-learning-london/" target="_blank">Learn Machine Learning Workshop</a>.I attended their second meetup at Just Eat and this was their fourth event being held at CompareTheMarket. 
+
 ![alt text](/images/lml4.jpeg)
 
 ## ML Challenge
