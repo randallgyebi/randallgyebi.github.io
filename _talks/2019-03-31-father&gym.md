@@ -30,9 +30,10 @@ Its very simple in writing but for some reason I have ended up doing more weight
 <img src="/images/barbellmath.jpg" alt="barbellmath" height="500"/>
 
 ## Progress
-| Tables        | Weight (kgs)        |Change (kgs) |
-| ------------- |:-------------:| -----:|
-| Squat (6 x 3)    | 105.0 | +5.0 |
+
+| Tables        | Weight (kgs)  |Change (kgs) |
+| ------------- |-------------| -----------|
+| Squat (6 x 3) |      105.0  | +5.0 |
 | Bench Press (6 x 3)   | 77.5     |   +2.5 |
 | Overhead Press (6 x 3) | 45.0      |    +5.0 |
 | Deadlift (6 x 2) | 125.0    |   +5.0 |
